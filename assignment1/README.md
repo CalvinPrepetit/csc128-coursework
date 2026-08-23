@@ -35,3 +35,7 @@ These are messages the bot handles badly because it does not fully support the u
    **Bot response:** "I can help with electrical, drivability, interior, exterior, and maintenance issues. What problem are you having with the vehicle?"
    
    **Why it failed:** The bot routes vehicle problems to departments, but it does not handle scheduling requests.
+
+## What I Would Improve With More Time
+
+With more time and moving outside the scope of the assignment, I would have the bot handle scheduling, price estimates, and follow-up questions to better narrow the scope of work. I would also improve the GUI to make it look better and feel more polished for the user.
