@@ -1,6 +1,6 @@
 # Auto Service Desk Bot
 
-This project is a Streamlit help desk bot for an auto service shop. The bot creates a ticket based on a customer's vehicle problem to one of five service areas: electrical, drivability, interior, exterior, or maintenance.
+This project is a Streamlit help desk bot for an auto service shop. The bot creates a ticket based on the service areas described: electrical, drivability, interior, exterior, or maintenance.
 
 ## How to run the chatbot
 
