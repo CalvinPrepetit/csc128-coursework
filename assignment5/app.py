@@ -142,6 +142,7 @@ def main():
 
         with st.chat_message("assistant"):
             placeholder = st.empty()
+            placeholder.write("Working on it...")
             try:
                 reply = stream_reply(get_client(), st.session_state.messages, placeholder)
             except Exception as error:
